@@ -1,0 +1,206 @@
+.a{
+	height: 800px;
+	width: 820px;
+	background: ghostwhite;
+	box-shadow: 3px 3px 8px;
+}
+
+#a{
+	height: 80px;
+	width: 820px;
+	background: white;
+
+}
+
+#a1{
+	margin-left: 250px;
+	margin-top: 50px;
+	border-width: 0px;
+	border-radius: 3px;
+	height: 25px;
+	background: lightgreen;
+	color: white;
+}
+
+#ab{
+	border-width: 0px;
+	border-radius: 3px;
+	height: 25px;
+	background: deepskyblue;
+	color: white;
+}
+
+#c{
+	color: white;
+	background: red;
+	border-width: 0px;
+	height: 25px;
+	border-radius: 3px;
+}
+
+.b{
+	background: white;
+	height: 500px;
+	width: 250px;
+	border-radius: 3px;
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+	box-shadow: 1px 1px 5px;
+
+}
+
+.d{
+	background: white;
+	height: 250px;
+	width: 500px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	border-radius: 3px;
+	box-shadow: 1px 1px 5px;
+	padding-top: 20px;
+
+}
+
+.e{
+	background: white;
+	height: 380px;
+	width: 500px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius:3px;
+	box-shadow: 1px 1px 5px;
+}
+
+img{
+	height: 100px;
+	width: 100px;
+	border:5px solid skyblue ;
+	border-radius: 65px;
+	margin-top: 20px;
+	margin-left: 70px;
+}
+
+h2{
+	text-align: center;
+	margin: 5px;
+}
+
+#r{
+	text-align: center;
+	margin: 5px;
+	color:#757575 ;
+	text-style: cursive;
+}
+
+#q{
+	margin-left: 55px;
+	height: 28px;
+	border-width: 0px;
+	border-radius: 3px;
+	background: deepskyblue;
+	color: white;
+	width: 60px;
+}
+
+#w{
+	border: 1px solid deepskyblue;
+	border-radius: 3px;
+	background: white;
+	color: deepskyblue;
+	height: 28px;
+	width: 80px;
+
+}
+
+hr{
+	color: blue;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+i{
+	margin-left: 30px;
+	margin-top: 10px;
+}
+
+font{
+	font-size: 15px;
+	padding-left: 5px;
+	margin-top: 12px;
+	margin-right: 13px;
+}
+
+#m{
+	font-size: 12px;
+	float: right;
+}
+
+form{
+	margin-left:20px;
+	margin-top: 20px;
+
+}
+
+input{
+	width: 350px;
+	float: right;
+	margin-right: 20px;
+
+}
+
+#y{
+	color: white;
+	background: deepskyblue;
+	border-radius: 3px;
+	border-width: 0px;
+	height: 26px;
+	margin-left: 210px;
+	margin-top: 8px;
+
+}
+
+h3{
+	margin-left: 20px;
+}
+
+#z{
+	width: 457px;
+	background-color: red;
+}
+
+#l{
+	width: 450px;
+	margin-left: 30px;
+	padding-bottom: 5px;
+}
+
+#k{
+	width: 450px;
+	margin-left: 30px;
+	padding-bottom: 5px;
+	font-color: red;
+}
+
+#j{
+	width: 450px;
+	margin-left: 30px;
+	padding-bottom: 5px;
+	font-color: red;
+}
+
+#h{
+	width: 450px;
+	margin-left: 30px;
+	padding-bottom: 5px;
+	font-color: red;
+}
+
+#g{
+	width: 450px;
+	margin-left: 30px;
+	padding-bottom: 5px;
+	font-color: red;
+}
